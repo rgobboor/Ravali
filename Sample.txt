@@ -7,3 +7,7 @@ Sample file change (newbranch)
 Sample file change (newbranch) !!!!!!!!!!!!!!
 
 trying to change in master
+
+Sample file change (newbranch) !!!!!!!!!!!!!!
+enough of editing
+
