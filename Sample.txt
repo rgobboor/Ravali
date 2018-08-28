@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sample fileee change
 =======
 Sample file change (newbranch)
+>>>>>>> newbranch
+=======
+Sample file change (newbranch) !!!!!!!!!!!!!!
 >>>>>>> newbranch
